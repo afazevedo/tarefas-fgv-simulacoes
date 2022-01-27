@@ -1,4 +1,4 @@
-# Tarefa de aprendizado: Modelagem 
+# Tarefa de aprendizado: Modelagem NEWAVE
 
 
 
