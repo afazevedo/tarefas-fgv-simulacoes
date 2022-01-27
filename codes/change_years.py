@@ -18,7 +18,7 @@ def changeYears(arquivo, caso):
         myfile.write(filedata)
 
 def main():
-    changeYears("D:\\mndzvd\\Documentos\\GitHub\\tarefas-fgv-simulacoes\\deck_newave_seco\\MODIF.DAT", "SECO")
+    changeYears("D:\\mndzvd\\Documentos\\GitHub\\tarefas-fgv-simulacoes\\deck_newave_seco\\PATAMAR.DAT", "SECO")
         
 if __name__ == "__main__":
     main()   
