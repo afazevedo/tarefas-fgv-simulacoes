@@ -19,7 +19,7 @@
 #### Base PMO 02/2020 (úmido) e 10/2020 (seco)
 ##### altera os anos no PMO - inicia simulação em 2015 (úmido) e inicia simulação em 2017 (seco))
 
-- **adterm.dat**  - despacho GNL: 
+- **adterm.dat**  - despacho GNL (não precisa alterar)
 - **c_adic.dat** – carga/oferta adicional
 - **clast.dat** – classes das usinas térmicas, tipo de combustível e custo
 - **curva.dat** – curva de aversão a risco, penalização das violações
